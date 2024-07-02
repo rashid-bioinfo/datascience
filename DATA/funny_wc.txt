@@ -1,0 +1,2 @@
+I love Python, word_count: 3.
+I love javascript, word_count: 3.
